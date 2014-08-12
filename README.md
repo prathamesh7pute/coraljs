@@ -1,4 +1,4 @@
-coraljs
+Coral
 =======
 
 Coral Documentation
