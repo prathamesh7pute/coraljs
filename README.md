@@ -1,0 +1,4 @@
+coraljs
+=======
+
+Coral Documentation
